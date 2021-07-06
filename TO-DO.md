@@ -1,0 +1,4 @@
+- [ ] Tablet view
+- [ ] Mobile view
+- [ ] BONUS: Card Flip
+- [ ] Let user decide Date
